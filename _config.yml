@@ -5,11 +5,11 @@
 # Site
 title: EGeeks
 subtitle: 记录个人成长
-description:
-keywords:
+description: C/C++/Java
+keywords: Linux
 author: kaibing15@163.com
-language:
-timezone:
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
